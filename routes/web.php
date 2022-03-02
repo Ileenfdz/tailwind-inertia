@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\ModalController;
 use App\Http\Controllers\PruebasController;
+use App\Http\Controllers\ButtonsController;
 use Illuminate\Foundation\Application;
 use Illuminate\Support\Facades\Route;
 use Inertia\Inertia;

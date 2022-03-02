@@ -18,7 +18,7 @@
                     <Link 
                         as="button"
                         type="button"
-                        :href="route('modal')"
+                        :href="route('buttons')"
                         class="text-center text-indigo-400 font-bold rounded py-2 w-2/12 hover:text-indigo-300 hover:bg-indigo-900 focus:outline-none bg-gray-900 border-2 border-indigo-400">
                         Buttons
                     </Link>
